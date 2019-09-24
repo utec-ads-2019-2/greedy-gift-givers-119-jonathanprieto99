@@ -1,0 +1,3 @@
+/Users/jonathanprieto/Documents/GitHub/greedy-gift-givers-119-jonathanprieto99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonathanprieto/Documents/GitHub/greedy-gift-givers-119-jonathanprieto99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonathanprieto/Documents/GitHub/greedy-gift-givers-119-jonathanprieto99/cmake-build-debug/CMakeFiles/greedy-gift-givers-119-jonathanprieto99.dir
