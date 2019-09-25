@@ -29,7 +29,7 @@ int main () {
             cin >>nombre>>monto>>cantidadregalados;
 
             if (cantidadregalados > 0) {
-                //Le sumamos el residuo
+                //Le sumamos el residuo en caso no se pueda dividir exacto entre los que recibiran
                 conjunto[nombre]=conjunto[nombre]+monto%cantidadregalados;
                 //cout<<monto%cantidadregalados<<endl;
                 //Le restamos al que regala
